@@ -1,3 +1,4 @@
-# data-science-projects
-3. Logistic Regression project-Titanic Dataset   2. Text classification using naive bayes   1. hypothesis testing using inferential statistics
-4. these are my data science projects using the mentioned techniques
+# cricket-score-predictor
+A XgBoost based Cricket Score Predictor
+
+Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
